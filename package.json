@@ -1,0 +1,24 @@
+{
+  "name": "store-inventory-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geordan9/store-inventory-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Geordan9/store-inventory-app/issues"
+  },
+  "homepage": "https://github.com/Geordan9/store-inventory-app#readme"
+}
